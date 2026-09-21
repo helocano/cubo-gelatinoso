@@ -1,4 +1,8 @@
 <img width="2480" height="254" alt="Cabecalho 3" src="https://github.com/user-attachments/assets/14f721de-0601-4f8d-9782-06dc02ec0d44" />
+O seguinte projeto consiste na primeira entrega da disciplina de Aprendizado de Máquina, ministrada pelo professor doutor Daniel Roberto Casar, durante o 2º semestre de 2026 no curso de Bacharelado em Ciência e Tecnologia da Ilum - Escola de Ciência.
 
-# Cubo gelatinoso
-Repositório para a entrega do "Cubo Gelatinoso" da disciplina de Aprendizado de Máquina.
+# Introdução
+O seguinte trabalho tem como objetivo principal discutir e analisar o modelo de knn vizinhos, também conhecido como k vizinhos mais próximos, além de desenvolver um modelo de knn para a classificação de roedores entre as espécies Peromyscys maniculatus e Peromyscus eremicus, partindo de atributos e características de indivíduos de cada espécie. Para isso, foram utilizados os dados do Portal Project Teaching Database, fundado pela National Science Foundation. Os arquivos originais do data set podem ser acessados [aqui](https://figshare.com/articles/dataset/Portal_Project_Teaching_Database/1314459).
+
+# Conclusões e principais aprendizados
+Por fim, depois de tantas análises, gráficos, discussões e mais análises, podemos concluir que o modelo desenvolvido apresenta uma acurácia satisfatória para a tarefa proposta, além de performar melhor do que um modelo baseline com os mesmos atributos. Além disso, também houve aprendizado significativo acerca de como decidir os atributos que devem entrar no modelo de classificação, sobre como considerar o que era um atributo relevante para o que estava sendo classificado (no caso, o rato), e quais eram informações da tabela, mas que não diziam nada sobre os roedores em si. Também houve aprendizado sobre as métricas do knn abordadas, os pesos e número de vizinhos na construção de um modelo. Houve também maior aprendizado sobre representações gráficas e maneiras de deixá-las mais compactas, como com o uso de paineis. Também houve, claro, grande aprendizado sobre as espécies de roedores abordadas no trabalho.
