@@ -3,6 +3,14 @@ Heloísa Fernandes Cano - T26
 
 O seguinte projeto consiste na primeira entrega da disciplina de Aprendizado de Máquina, ministrada pelo professor doutor Daniel Roberto Casar, durante o 2º semestre de 2026 no curso de Bacharelado em Ciência e Tecnologia da Ilum - Escola de Ciência.
 
+# Versão das bibliotecas
+```
+Python:        3.13.15 (random, statistics
+pandas:        2.2.3
+seaborn:       0.13.2
+matplotlib:    3.10.0
+```
+
 # Introdução
 O seguinte trabalho tem como objetivo principal discutir e analisar o modelo de knn vizinhos, também conhecido como k vizinhos mais próximos, além de desenvolver um modelo de knn para a classificação de roedores entre as espécies Peromyscys maniculatus e Peromyscus eremicus, partindo de atributos e características de indivíduos de cada espécie. Para isso, foram utilizados os dados do Portal Project Teaching Database, fundado pela National Science Foundation. Os arquivos originais do data set podem ser acessados [aqui](https://figshare.com/articles/dataset/Portal_Project_Teaching_Database/1314459).
 
