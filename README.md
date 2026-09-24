@@ -16,3 +16,6 @@ O seguinte trabalho tem como objetivo principal discutir e analisar o modelo de 
 
 # Conclusões e principais aprendizados
 Por fim, depois de tantas análises, gráficos, discussões e mais análises, podemos concluir que o modelo desenvolvido apresenta uma acurácia satisfatória para a tarefa proposta, além de performar melhor do que um modelo baseline com os mesmos atributos. Além disso, também houve aprendizado significativo acerca de como decidir os atributos que devem entrar no modelo de classificação, sobre como considerar o que era um atributo relevante para o que estava sendo classificado (no caso, o rato), e quais eram informações da tabela, mas que não diziam nada sobre os roedores em si. Também houve aprendizado sobre as métricas do knn abordadas, os pesos e número de vizinhos na construção de um modelo. Houve também maior aprendizado sobre representações gráficas e maneiras de deixá-las mais compactas, como com o uso de paineis. Também houve, claro, grande aprendizado sobre as espécies de roedores abordadas no trabalho.
+
+# EXTRA!!
+Se compadeceu dos ratos e agora está se perguntando, "qual rato eu seria se eu fosse um rato do deserto do Chihuahua?" Responda a esse quiz de apenas 13 perguntas e descubra!! https://helocano.github.io/qual-rato-voce-seria/
